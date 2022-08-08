@@ -7,7 +7,7 @@
         - Broadcast a message to all clients who are connecting with the server.
         - Send a message to a specific client, this need the ID of the receiver client.
 - About Design:
-    - See the overview diagram: ![ScreenShot](../hw2/docs/Design.PNG)
+    - See the overview diagram: ![ScreenShot](./docs/Design.PNG)
     - Class Tree:
         ```
         ─hw2
